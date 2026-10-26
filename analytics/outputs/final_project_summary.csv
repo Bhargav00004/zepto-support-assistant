@@ -1,0 +1,8 @@
+Section,Status,Details
+Data Pipeline,Completed,"100 books, 29 categories, cleaned CSV, SQLite database, GBP to INR conversion, JOIN validation"
+EDA,Completed,"Missing values, duplicates, outliers, correlation analysis and visualizations"
+Classification,Completed,"Logistic Regression, SMOTE, Decision Tree, Random Forest and tuned Random Forest"
+Classification Metrics,Completed,"Accuracy, Precision, Recall, F1, ROC-AUC, confusion matrix and OOB"
+Hyperparameter Tuning,Completed,GridSearchCV with 5-fold cross-validation
+Regression,Completed,Linear Regression and Random Forest Regression
+Regression Metrics,Completed,"MAE, RMSE, R² and error analysis"
